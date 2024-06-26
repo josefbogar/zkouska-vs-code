@@ -1,7 +1,7 @@
-let x = 5;
+let z = 5;
 let y = 7;
 
-let soucet = x + y;
+let soucet = z + y;
 
 // Vypsání výsledku
-console.log(`Ahoj, Josef, vypočítal jsi to dobře. Součet ${x} +${y} je ${soucet}.`);
+console.log(`Ahoj, Josef, vypočítal jsi to dobře. Součet ${z} +${y} je ${soucet}.`);
