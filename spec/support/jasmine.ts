@@ -1,0 +1,1 @@
+import { SpecReporter } from 'jasmine-spec-reporter';
